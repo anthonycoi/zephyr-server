@@ -1,0 +1,3 @@
+Ready to write something
+
+Beginning with the basics, learning algorithms, computers, programming, C++, Zephyr-platform

@@ -1,0 +1,9 @@
+Direct forwarding with node, if the node is different, it is forwarded through the routing table.
+Each machine can connect multiple external nodes
+The node finds the virtualIp direct route through the table route.
+
+COMM can find the forwarded Ip through nodeId
+
+After receiving the msg sent by the network, COMM determines whether the nodeId is the same. If it is different, it needs to be forwarded.
+If a packet that cannot be forwarded by the local node is received, it is discarded.
+But now it seems that it can't be done? ! So if there is a Loop, it will definitely be an infinite loop. Should I add a TTL? Still forget it

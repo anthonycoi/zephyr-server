@@ -1,0 +1,30 @@
+December 9, 2010:
+Modify TplMap.h to dynamically grow memory.
+To change the Connector, cancel the simultaneous connection limit.
+2010.12.9 11:32 is completed.
+
+Next time modify tplmap, change to dynamically reclaim memory.
+Write a template that can generate a class dynamic memory pool. TplPool.h :CPool Tomorrow Test 2010-12-21
+
+Take the time to change the map into a multi-set map, which is the same key, can have multiple values, plus a doubly linked list
+
+2011-01-16 Tested single-process broadcast
+17 Testing multiple IP single shots
+More than 18 IP bursts
+19 multi-node single shot
+20 multi-node group
+
+21-22 Write stub+servercontainer.
+
+23-30 Try to write the IDL generator.
+
+In February, I will try to write a preliminary deployment tool.
+I also need a findService tool.
+Fully dragged
+Ah, it¡¯s all in March, I haven¡¯t finished writing COMM yet, the foundation is not playing well.
+
+Today retested winNetTest, ok, the response speed is 1/12ms, which is a node.
+
+08.02.2011
+1. Start sleeping early today.
+2. The code is completed in August and the document is written in September.
