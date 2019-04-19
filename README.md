@@ -1,4 +1,4 @@
-# zephyr-server-mmo
+# zephyr-server
 
 1. The platform that you hope to develop can be adopted.
 
